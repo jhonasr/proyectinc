@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+}
+
+.textcarrousel {
+	font-weight: bold;
+	font-size: 6rem;
+	font-family: 'Roboto Condensed', sans-serif;
+}
+
+.textcarrouselbelow {
+	font-size: 20px;
+}
